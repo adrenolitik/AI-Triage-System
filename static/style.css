@@ -1,0 +1,6 @@
+/* Custom triage color classes */
+.triage-red { background-color: #ef4444; color: white; }
+.triage-orange { background-color: #f97316; color: white; }
+.triage-yellow { background-color: #fbbf24; color: black; }
+.triage-green { background-color: #22c55e; color: white; }
+.triage-blue { background-color: #3b82f6; color: white; }
